@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @budijoi
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on none for now
-- 📫 How to reach me?
+<h1 align="center">Sampurasun 👋, Nepangkeun abdi budijoi</h1>
+<h3 align="center">Seorang pemula di dunia GITHUB</h3>
 
-<!---
-budijoi/budijoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=budijoi&label=Profile%20views&color=0e75b6&style=flat" alt="budijoi" /> </p>
+
+</p>
